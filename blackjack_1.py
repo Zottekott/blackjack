@@ -20,4 +20,4 @@ while geld<0:
         inzet=geld
         print('U gaat all-in met',inzet)
     
-    random.randomint(
+    random.randomchoice((2,3,4,5,6,7,8,9,10,J,Q,K,A))
